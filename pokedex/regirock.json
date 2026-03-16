@@ -1,0 +1,26 @@
+{
+    "nombre": "REGIROCK",
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+    "peso": 2300,
+    "tamaño": 17,
+    "movimientos": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "stomp",
+        "mega-kick",
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "habilidades": [
+        "clear-body",
+        "sturdy"
+    ],
+    "tipos": [
+        "rock"
+    ],
+    "id": 377
+}

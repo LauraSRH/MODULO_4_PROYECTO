@@ -1,0 +1,27 @@
+{
+    "nombre": "DIALGA",
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png",
+    "peso": 6830,
+    "tamaño": 54,
+    "movimientos": [
+        "cut",
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "roar",
+        "flamethrower",
+        "ice-beam",
+        "blizzard",
+        "hyper-beam",
+        "strength"
+    ],
+    "habilidades": [
+        "pressure",
+        "telepathy"
+    ],
+    "tipos": [
+        "steel",
+        "dragon"
+    ],
+    "id": 483
+}

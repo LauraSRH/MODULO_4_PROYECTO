@@ -1,0 +1,25 @@
+{
+    "nombre": "SILVALLY",
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png",
+    "peso": 1005,
+    "tamaño": 23,
+    "movimientos": [
+        "razor-wind",
+        "swords-dance",
+        "tackle",
+        "take-down",
+        "double-edge",
+        "bite",
+        "roar",
+        "flamethrower",
+        "surf",
+        "ice-beam"
+    ],
+    "habilidades": [
+        "rks-system"
+    ],
+    "tipos": [
+        "normal"
+    ],
+    "id": 773
+}
