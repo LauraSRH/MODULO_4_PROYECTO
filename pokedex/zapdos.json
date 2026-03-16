@@ -1,0 +1,27 @@
+{
+    "nombre": "ZAPDOS",
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "peso": 526,
+    "tamaño": 16,
+    "movimientos": [
+        "razor-wind",
+        "whirlwind",
+        "fly",
+        "headbutt",
+        "take-down",
+        "double-edge",
+        "leer",
+        "roar",
+        "hyper-beam",
+        "peck"
+    ],
+    "habilidades": [
+        "pressure",
+        "static"
+    ],
+    "tipos": [
+        "electric",
+        "flying"
+    ],
+    "id": 145
+}

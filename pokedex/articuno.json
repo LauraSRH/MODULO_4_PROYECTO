@@ -1,0 +1,27 @@
+{
+    "nombre": "ARTICUNO",
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "peso": 554,
+    "tamaño": 17,
+    "movimientos": [
+        "razor-wind",
+        "gust",
+        "whirlwind",
+        "fly",
+        "headbutt",
+        "take-down",
+        "double-edge",
+        "leer",
+        "roar",
+        "mist"
+    ],
+    "habilidades": [
+        "pressure",
+        "snow-cloak"
+    ],
+    "tipos": [
+        "ice",
+        "flying"
+    ],
+    "id": 144
+}
